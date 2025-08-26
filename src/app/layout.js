@@ -9,7 +9,7 @@ export const metadata = {
     description: 'Your central command for the Wplace Pixel! Features live cooldown timer, 64-color palette, and strategic planning tools.',
     type: 'website',
     siteName: 'Wplace Pixel Command Center',
-    url: 'https://wplace-pixel.vercel.app',
+    url: 'https://www.wplacepixel.info',
   },
   twitter: {
     card: 'summary_large_image',
@@ -27,7 +27,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://wplace-pixel.vercel.app" />
+        <link rel="canonical" href="https://www.wplacepixel.info" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
         <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
