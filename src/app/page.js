@@ -57,20 +57,20 @@ export default function Home() {
 
             <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold mb-8 text-white font-pixel leading-normal animate-slide-in-up">
               <div className="text-transparent bg-clip-text bg-gradient-to-r from-neon-purple-400 to-neon-cyan-400">
-                WPLACE PIXEL
+                Wplace Image Converter
               </div>
               <div className="text-white mt-2">
-                Live Cooldown Timer,
+                Create Pixel-Perfect
               </div>
               <div className="text-white">
-                Color Palette & Info
+                Art & Maps
               </div>
             </h1>
 
             <p className="text-lg md:text-xl text-gray-300 max-w-5xl mx-auto leading-relaxed font-light mb-12 animate-slide-in-up" style={{ animationDelay: '0.2s' }}>
-              Your central command for the Wplace Pixel! This site features a live cooldown timer,
-              the official 64-color palette, and powerful planning tools to help your faction succeed
-              on the wplace.app world map. Stop wasting pixels and start conquering!
+              Your central command for Wplace Pixel art creation! This site features an advanced image converter,
+              the official 64-color palette, and powerful planning tools to help your faction create stunning
+              pixel art on the wplace.app world map. Transform your vision into pixel reality!
             </p>
 
             {/* Feature highlights */}
@@ -79,8 +79,8 @@ export default function Home() {
                 <div className="w-12 h-12 mx-auto mb-4 tech-border bg-gradient-to-br from-neon-purple-500 to-neon-pink-500 flex items-center justify-center">
                   <Timer className="w-6 h-6 text-white" />
                 </div>
-                <h3 className="text-lg font-bold text-white font-tech mb-2">LIVE_TIMER</h3>
-                <p className="text-gray-400 text-sm">Precision cooldown tracking</p>
+                <h3 className="text-lg font-bold text-white font-tech mb-2">IMAGE_CONVERT</h3>
+                <p className="text-gray-400 text-sm">Instant pixel art creation</p>
               </div>
 
               <div className="tech-card tech-border p-6 tech-hover animate-slide-in-up" style={{ animationDelay: '0.6s' }}>

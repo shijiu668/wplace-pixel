@@ -1,20 +1,20 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Wplace Pixel | Live Cooldown Timer, Color Palette & Info',
-  description: 'Your central command for the Wplace Pixel! This site features a live cooldown timer, the official 64-color palette, and powerful planning tools to help your faction succeed on the wplace.live world map. Stop wasting pixels and start conquering!',
-  keywords: 'wplace pixel, live cooldown timer, color palette, wplace pixel timer, wplace strategy, pixel planning, wplace coordination, wplace pixel tools',
+  title: 'Wplace Image Converter - Create Pixel-Perfect Art & Maps',
+  description: 'Instantly convert any image into a pixel-perfect grid for Wplace, using the official color palette. The ultimate tool for planning your faction\'s masterpiece and preparing your next move. Stop guessing and start creating!',
+  keywords: 'Wplace image converter, Wplace pixel art, image to pixel grid, pixel art generator, Wplace tool, Wplace map creator, Wplace faction planner, Wplace strategy, pixel-perfect grid, Wplace color palette, image to Wplace converter',
   openGraph: {
-    title: 'Wplace Pixel | Live Cooldown Timer, Color Palette & Info',
-    description: 'Your central command for the Wplace Pixel! Features live cooldown timer, 64-color palette, and strategic planning tools.',
+    title: 'Wplace Image Converter - Create Pixel-Perfect Art & Maps',
+    description: 'Instantly convert any image into a pixel-perfect grid for Wplace, using the official color palette. The ultimate tool for planning your faction\'s masterpiece and preparing your next move. Stop guessing and start creating!',
     type: 'website',
     siteName: 'Wplace Pixel Command Center',
     url: 'https://www.wplacepixel.info',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Wplace Pixel | Live Cooldown Timer, Color Palette & Info',
-    description: 'Your central command for the Wplace Pixel! Features live cooldown timer, 64-color palette, and strategic planning tools.',
+    title: 'Wplace Image Converter - Create Pixel-Perfect Art & Maps',
+    description: 'Instantly convert any image into a pixel-perfect grid for Wplace, using the official color palette. The ultimate tool for planning your faction\'s masterpiece and preparing your next move. Stop guessing and start creating!',
   },
   robots: {
     index: true,

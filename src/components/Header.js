@@ -58,7 +58,7 @@ export default function Header() {
                                 className="neon-button px-6 py-2 rounded-lg font-medium text-white relative z-10 tech-border-sm"
                             >
                                 <Timer className="w-4 h-4 inline mr-2" />
-                                Live Timer
+                                Image Converter
                             </button>
                         </div>
 
@@ -100,7 +100,7 @@ export default function Header() {
                                 className="neon-button w-full px-6 py-3 rounded-lg font-medium text-white tech-border-sm flex items-center justify-center"
                             >
                                 <Timer className="w-4 h-4 mr-2" />
-                                Live Timer
+                                Image Converter
                             </button>
                         </div>
                     )}

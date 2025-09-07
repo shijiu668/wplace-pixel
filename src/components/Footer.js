@@ -26,8 +26,8 @@ export default function Footer() {
                             </div>
                         </div>
                         <p className="text-gray-300 text-lg leading-relaxed max-w-md mb-6">
-                            The ultimate Wplace Pixel command center featuring live cooldown timers, complete color palette access,
-                            and advanced strategic planning tools for serious Wplace pixel dominance.
+                            The ultimate Wplace Pixel command center featuring advanced image conversion, complete color palette access,
+                            and strategic pixel art creation tools for serious Wplace pixel dominance.
                         </p>
                         <div className="flex items-center space-x-2 text-gray-400 font-tech">
                             <span>Built for</span>
